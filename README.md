@@ -1,4 +1,9 @@
-# React + Vite
+# React + Vite + react-redux
+
+This boiler plate will help you to understand that how to manage states using react-redux.
+In this boiler plate, I have taken a basic example of increment and decrement counter
+
+Given basic use of createSlice, configureStore, useDispatch, useSelector, reducers, actions.
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
